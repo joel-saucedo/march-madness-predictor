@@ -1,0 +1,61 @@
+Year,Region,Round,Game,Team_A_Seed,Team_A,Team_A_Score,Team_B_Seed,Team_B,Team_B_Score,Winner,Location
+2025,East,1,1,1,Duke,,,tbd,,,
+2025,East,1,2,8,Mississippi State,,9,Baylor,,,"at Raleigh, NC"
+2025,East,1,3,5,Oregon,,12,Liberty,,,"at Seattle, WA"
+2025,East,1,4,4,Arizona,,13,Akron,,,"at Seattle, WA"
+2025,East,1,5,6,BYU,,11,VCU,,,"at Denver, CO"
+2025,East,1,6,3,Wisconsin,,14,Montana,,,"at Denver, CO"
+2025,East,1,7,7,Saint Mary's,,10,Vanderbilt,,,"at Cleveland, OH"
+2025,East,1,8,2,Alabama,,15,Robert Morris,,,"at Cleveland, OH"
+2025,East,2,1,,,,,,,,
+2025,East,2,2,,,,,,,,
+2025,East,2,3,,,,,,,,
+2025,East,2,4,,,,,,,,
+2025,East,3,1,,,,,,,,
+2025,East,3,2,,,,,,,,
+2025,East,4,1,,,,,,,,
+2025,Midwest,1,1,1,Houston,,16,SIU-Edwardsville,,,"at Wichita, KS"
+2025,Midwest,1,2,8,Gonzaga,,9,Georgia,,,"at Wichita, KS"
+2025,Midwest,1,3,5,Clemson,,12,McNeese State,,,"at Providence, RI"
+2025,Midwest,1,4,4,Purdue,,13,High Point,,,"at Providence, RI"
+2025,Midwest,1,5,6,Illinois,,,tbd,,,
+2025,Midwest,1,6,3,Kentucky,,14,Troy,,,"at Milwaukee, WI"
+2025,Midwest,1,7,7,UCLA,,10,Utah State,,,"at Lexington, KY"
+2025,Midwest,1,8,2,Tennessee,,15,Wofford,,,"at Lexington, KY"
+2025,Midwest,2,1,,,,,,,,
+2025,Midwest,2,2,,,,,,,,
+2025,Midwest,2,3,,,,,,,,
+2025,Midwest,2,4,,,,,,,,
+2025,Midwest,3,1,,,,,,,,
+2025,Midwest,3,2,,,,,,,,
+2025,Midwest,4,1,,,,,,,,
+2025,South,1,1,1,Auburn,,16,Alabama State,,,"at Lexington, KY"
+2025,South,1,2,8,Louisville,,9,Creighton,,,"at Lexington, KY"
+2025,South,1,3,5,Michigan,,12,UC-San Diego,,,"at Denver, CO"
+2025,South,1,4,4,Texas A&M,,13,Yale,,,"at Denver, CO"
+2025,South,1,5,6,Ole Miss,,11,UNC,,,"at Milwaukee, WI"
+2025,South,1,6,3,Iowa State,,14,Lipscomb,,,"at Milwaukee, WI"
+2025,South,1,7,7,Marquette,,10,New Mexico,,,"at Cleveland, OH"
+2025,South,1,8,2,Michigan State,,15,Bryant,,,"at Cleveland, OH"
+2025,South,2,1,,,,,,,,
+2025,South,2,2,,,,,,,,
+2025,South,2,3,,,,,,,,
+2025,South,2,4,,,,,,,,
+2025,South,3,1,,,,,,,,
+2025,South,3,2,,,,,,,,
+2025,South,4,1,,,,,,,,
+2025,West,1,1,1,Florida,,16,Norfolk State,,,"at Raleigh, NC"
+2025,West,1,2,8,UConn,,9,Oklahoma,,,"at Raleigh, NC"
+2025,West,1,3,5,Memphis,,12,Colorado State,,,"at Seattle, WA"
+2025,West,1,4,4,Maryland,,13,Grand Canyon,,,"at Seattle, WA"
+2025,West,1,5,6,Missouri,,11,Drake,,,"at Wichita, KS"
+2025,West,1,6,3,Texas Tech,,14,UNC Wilmington,,,"at Wichita, KS"
+2025,West,1,7,7,Kansas,,10,Arkansas,,,"at Providence, RI"
+2025,West,1,8,2,St. John's (NY),,15,Omaha,,,"at Providence, RI"
+2025,West,2,1,,,,,,,,
+2025,West,2,2,,,,,,,,
+2025,West,2,3,,,,,,,,
+2025,West,2,4,,,,,,,,
+2025,West,3,1,,,,,,,,
+2025,West,3,2,,,,,,,,
+2025,West,4,1,,,,,,,,

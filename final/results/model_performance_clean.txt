@@ -1,0 +1,15 @@
+Model Performance After Removing Outliers:
+Accuracy: 0.838
+Confusion Matrix:
+[[202  75]
+ [ 59 491]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.77      0.73      0.75       277
+         1.0       0.87      0.89      0.88       550
+
+    accuracy                           0.84       827
+   macro avg       0.82      0.81      0.82       827
+weighted avg       0.84      0.84      0.84       827

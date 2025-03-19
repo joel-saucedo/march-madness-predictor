@@ -1,0 +1,15 @@
+Elastic Net Logistic Regression Full Data Performance:
+Accuracy: 0.775
+Confusion Matrix:
+[[201 118]
+ [ 81 486]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.71      0.63      0.67       319
+         1.0       0.80      0.86      0.83       567
+
+    accuracy                           0.78       886
+   macro avg       0.76      0.74      0.75       886
+weighted avg       0.77      0.78      0.77       886

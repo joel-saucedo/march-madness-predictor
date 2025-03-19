@@ -1,0 +1,3 @@
+Bootstrap Analysis Summary:
+Mean Accuracy: 0.773
+Std Accuracy: 0.006

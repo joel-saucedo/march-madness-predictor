@@ -1,0 +1,3 @@
+Best Elastic Net Logistic Regression Parameters:
+{'C': 1, 'l1_ratio': 0.1}
+Cross-validated Accuracy: 0.774

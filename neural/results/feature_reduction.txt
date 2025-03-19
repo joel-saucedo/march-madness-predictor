@@ -1,0 +1,8 @@
+Original feature columns:
+diff_NetRtg, diff_ORtg, diff_DRtg, diff_AdjT, diff_Luck, diff_Strength_of_Schedule_NetRtg, diff_Strength_of_Schedule_ORtg, diff_Strength_of_Schedule_DRtg, diff_NCSOS_NetRtg
+
+Dropped features due to high correlation (threshold > 0.95):
+diff_Strength_of_Schedule_ORtg, diff_Strength_of_Schedule_DRtg
+
+Remaining features for modeling:
+diff_NetRtg, diff_ORtg, diff_DRtg, diff_AdjT, diff_Luck, diff_Strength_of_Schedule_NetRtg, diff_NCSOS_NetRtg

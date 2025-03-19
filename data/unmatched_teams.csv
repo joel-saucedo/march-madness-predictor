@@ -1,0 +1,500 @@
+Year,Team_A,Matched_A,Team_B,Matched_B
+2002,Wisconsin,wisconsin,St. John's (NY),
+2002,Georgia,georgia,Murray State,
+2002,NC State,nc state,Michigan State,
+2002,UConn,,Hampton,hampton
+2002,NC State,nc state,UConn,
+2002,Southern Illinois,southern illinois,UConn,
+2002,Maryland,maryland,UConn,
+2002,Illinois,illinois,San Diego State,
+2002,Mississippi State,mississippi st,McNeese State,
+2002,Pitt,,Central Connecticut,central connecticut
+2002,Oklahoma State,,Kent State,
+2002,California,california,Pitt,
+2002,Kent State,,Alabama,alabama
+2002,Pitt,,Kent State,
+2002,Indiana,indiana,Kent State,
+2002,UCLA,ucla,Ole Miss,
+2002,Ohio State,,Davidson,davidson
+2002,Arizona,arizona,UCSB,
+2002,Oklahoma,oklahoma,UIC,
+2002,Missouri,missouri,Ohio State,
+2003,Oklahoma State,,Penn,penn
+2003,St. Joseph's,,Auburn,auburn
+2003,Wake Forest,wake forest,ETSU,
+2003,Oklahoma State,,Syracuse,syracuse
+2003,Kentucky,kentucky,IU Indianapolis,
+2003,Wisconsin,wisconsin,Weber State,
+2003,Pitt,,Wagner,wagner
+2003,Indiana,indiana,Pitt,
+2003,Marquette,marquette,Pitt,
+2003,UConn,,BYU,byu
+2003,Xavier,xavier,Troy,
+2003,Michigan State,,Colorado,colorado
+2003,Florida,florida,Sam Houston,
+2003,UConn,,Stanford,stanford
+2003,Michigan State,,Florida,florida
+2003,Texas,texas,UConn,
+2003,Maryland,maryland,Michigan State,
+2003,Texas,texas,Michigan State,
+2003,Duke,duke,Colorado State,
+2003,Memphis,memphis,Arizona State,
+2003,Kansas,kansas,Utah State,
+2003,Arizona State,,Kansas,kansas
+2004,Duke,duke,Alabama State,
+2004,Illinois,illinois,Murray State,
+2004,Cincinnati,cincinnati,ETSU,
+2004,UNC,,Air Force,air force
+2004,UNC,,Texas,texas
+2004,St. Joseph's,,Liberty,liberty
+2004,Pitt,,UCF,ucf
+2004,Oklahoma State,,Eastern Washington,eastern washington
+2004,St. Joseph's,,Texas Tech,texas tech
+2004,Wisconsin,wisconsin,Pitt,
+2004,Memphis,memphis,Oklahoma State,
+2004,St. Joseph's,,Wake Forest,wake forest
+2004,Pitt,,Oklahoma State,
+2004,St. Joseph's,,Oklahoma State,
+2004,NC State,nc state,Louisiana,
+2004,UConn,,Vermont,vermont
+2004,DePaul,depaul,UConn,
+2004,Vanderbilt,vanderbilt,UConn,
+2004,Alabama,alabama,UConn,
+2004,Kansas,kansas,UIC,
+2004,Michigan State,,Nevada,nevada
+2004,UConn,,Duke,duke
+2004,Oklahoma State,,Georgia Tech,georgia tech
+2004,UConn,,Georgia Tech,georgia tech
+2005,Pacific,pacific,Pitt,
+2005,Louisville,louisville,Louisiana,
+2005,Duke,duke,Delaware State,
+2005,Michigan State,,Old Dominion,old dominion
+2005,Michigan State,,Vermont,vermont
+2005,Duke,duke,Michigan State,
+2005,Michigan State,,Kentucky,kentucky
+2005,Illinois,illinois,FDU,
+2005,Arizona,arizona,Utah State,
+2005,Oklahoma State,,Southeastern Louisiana,southeastern louisiana
+2005,Southern Illinois,southern illinois,Oklahoma State,
+2005,Arizona,arizona,Oklahoma State,
+2005,UNC,,Oakland,oakland
+2005,Minnesota,minnesota,Iowa State,
+2005,UConn,,UCF,ucf
+2005,UNC,,Iowa State,
+2005,NC State,nc state,UConn,
+2005,UNC,,Villanova,villanova
+2005,UNC,,Wisconsin,wisconsin
+2005,UNC,,Michigan State,
+2005,UNC,,Illinois,illinois
+2006,Ohio State,,Davidson,davidson
+2006,Georgetown,georgetown,Ohio State,
+2006,Pitt,,Kent State,
+2006,Indiana,indiana,San Diego State,
+2006,Pitt,,Bradley,bradley
+2006,UConn,,Albany (NY),
+2006,Washington,washington,Utah State,
+2006,Michigan State,,George Mason,george mason
+2006,UNC,,Murray State,
+2006,Wichita State,,Seton Hall,seton hall
+2006,UConn,,Kentucky,kentucky
+2006,George Mason,george mason,UNC,
+2006,Wichita State,,Tennessee,tennessee
+2006,UConn,,Washington,washington
+2006,George Mason,george mason,Wichita State,
+2006,UConn,,George Mason,george mason
+2007,UNC,,Eastern Kentucky,eastern kentucky
+2007,Marquette,marquette,Michigan State,
+2007,UNC,,Michigan State,
+2007,UNC,,USC,usc
+2007,UNC,,Georgetown,georgetown
+2007,Florida,florida,Jackson State,
+2007,Wisconsin,wisconsin,Texas A&M-Corpus Christi,
+2007,Ohio State,,Central Connecticut,central connecticut
+2007,Virginia,virginia,Albany (NY),
+2007,Ohio State,,Xavier,xavier
+2007,Ohio State,,Tennessee,tennessee
+2007,Ohio State,,Memphis,memphis
+2007,Pitt,,Wright State,
+2007,UCLA,ucla,Weber State,
+2007,VCU,vcu,Pitt,
+2007,Pitt,,UCLA,ucla
+2007,Georgetown,georgetown,Ohio State,
+2007,Florida,florida,Ohio State,
+2008,UNC,,Mount St. Mary's,mount st marys
+2008,Oklahoma,oklahoma,St. Joseph's,
+2008,Louisville,louisville,Boise State,
+2008,UNC,,Arkansas,arkansas
+2008,UNC,,Washington State,washington st
+2008,UNC,,Louisville,louisville
+2008,Kansas,kansas,Portland State,
+2008,UNLV,unlv,Kent State,
+2008,USC,usc,Kansas State,
+2008,Kansas State,,Wisconsin,wisconsin
+2008,Michigan State,,Temple,temple
+2008,Pitt,,Oral Roberts,oral roberts
+2008,Michigan State,,Pitt,
+2008,Memphis,memphis,Michigan State,
+2008,UConn,,San Diego,san diego
+2008,Kansas,kansas,UNC,
+2009,Pitt,,ETSU,
+2009,Oklahoma State,,Tennessee,tennessee
+2009,Florida State,,Wisconsin,wisconsin
+2009,Xavier,xavier,Portland State,
+2009,Pitt,,Oklahoma State,
+2009,Pitt,,Xavier,xavier
+2009,Pitt,,Villanova,villanova
+2009,Louisville,louisville,Morehead State,
+2009,Ohio State,,Siena,siena
+2009,Wake Forest,wake forest,Cleveland State,
+2009,Michigan State,,Robert Morris,robert morris
+2009,Arizona,arizona,Cleveland State,
+2009,USC,usc,Michigan State,
+2009,Kansas,kansas,Michigan State,
+2009,Louisville,louisville,Michigan State,
+2009,UNC,,Radford,radford
+2009,Arizona State,,Temple,temple
+2009,Oklahoma,oklahoma,Morgan State,
+2009,UNC,,LSU,lsu
+2009,Arizona State,,Syracuse,syracuse
+2009,UNC,,Gonzaga,gonzaga
+2009,UNC,,Oklahoma,oklahoma
+2009,UConn,,Chattanooga,chattanooga
+2009,Marquette,marquette,Utah State,
+2009,UConn,,Texas A&M,texas am
+2009,UConn,,Purdue,purdue
+2009,UConn,,Missouri,missouri
+2009,UNC,,Villanova,villanova
+2009,UConn,,Michigan State,
+2009,UNC,,Michigan State,
+2010,Kentucky,kentucky,ETSU,
+2010,West Virginia,west virginia,Morgan State,
+2010,Michigan State,,New Mexico State,new mexico st
+2010,Tennessee,tennessee,San Diego State,
+2010,Oklahoma State,,Georgia Tech,georgia tech
+2010,Ohio State,,UCSB,
+2010,Michigan State,,Maryland,maryland
+2010,Georgia Tech,georgia tech,Ohio State,
+2010,Northern Iowa,northern iowa,Michigan State,
+2010,Tennessee,tennessee,Ohio State,
+2010,Michigan State,,Tennessee,tennessee
+2010,Duke,duke,Arkansas-Pine Bluff,
+2010,Texas A&M,texas am,Utah State,
+2010,Baylor,baylor,Sam Houston,
+2010,Gonzaga,gonzaga,Florida State,
+2010,Vanderbilt,vanderbilt,Murray State,
+2010,Pitt,,Oakland,oakland
+2010,Kansas State,,North Texas,north texas
+2010,Butler,butler,Murray State,
+2010,Xavier,xavier,Pitt,
+2010,BYU,byu,Kansas State,
+2010,Xavier,xavier,Kansas State,
+2010,Butler,butler,Kansas State,
+2010,Michigan State,,Butler,butler
+2011,Ohio State,,UTSA,utsa
+2011,Syracuse,syracuse,Indiana State,
+2011,UNC,,LIU,
+2011,Ohio State,,George Mason,george mason
+2011,Washington,washington,UNC,
+2011,Ohio State,,Kentucky,kentucky
+2011,Marquette,marquette,UNC,
+2011,Kentucky,kentucky,UNC,
+2011,Pitt,,UNC Asheville,unc asheville
+2011,Kansas State,,Utah State,
+2011,St. John's (NY),,Gonzaga,gonzaga
+2011,UCLA,ucla,Michigan State,
+2011,Florida,florida,UCSB,
+2011,Pitt,,Butler,butler
+2011,Kansas State,,Wisconsin,wisconsin
+2011,Louisville,louisville,Morehead State,
+2011,Purdue,purdue,St. Peter's,
+2011,Texas A&M,texas am,Florida State,
+2011,Richmond,richmond,Morehead State,
+2011,Florida State,,Notre Dame,notre dame
+2011,VCU,vcu,Florida State,
+2011,UConn,,Bucknell,bucknell
+2011,Temple,temple,Penn State,
+2011,San Diego State,,Northern Colorado,northern colorado
+2011,Cincinnati,cincinnati,UConn,
+2011,Temple,temple,San Diego State,
+2011,UConn,,San Diego State,
+2011,Arizona,arizona,UConn,
+2011,UConn,,Kentucky,kentucky
+2011,UConn,,Butler,butler
+2012,Kansas State,,Southern Miss,southern miss
+2012,Florida State,,St. Bonaventure,st bonaventure
+2012,Ohio State,,Loyola (MD),loyola md
+2012,Syracuse,syracuse,Kansas State,
+2012,Cincinnati,cincinnati,Florida State,
+2012,Gonzaga,gonzaga,Ohio State,
+2012,Cincinnati,cincinnati,Ohio State,
+2012,Syracuse,syracuse,Ohio State,
+2012,UNC,,Vermont,vermont
+2012,San Diego State,,NC State,nc state
+2012,Kansas,kansas,Detroit Mercy,
+2012,UNC,,Creighton,creighton
+2012,UNC,,Ohio,ohio
+2012,UNC,,Kansas,kansas
+2012,Iowa State,,UConn,
+2012,Wichita State,,VCU,vcu
+2012,Kentucky,kentucky,Iowa State,
+2012,Michigan State,,LIU,
+2012,Murray State,,Colorado State,
+2012,Missouri,missouri,Norfolk State,
+2012,Michigan State,,Saint Louis,saint louis
+2012,Murray State,,Marquette,marquette
+2012,Florida,florida,Norfolk State,
+2012,Michigan State,,Louisville,louisville
+2012,Ohio State,,Kansas,kansas
+2013,Colorado State,,Missouri,missouri
+2013,Oklahoma State,,Oregon,oregon
+2013,Michigan State,,Valparaiso,valparaiso
+2013,Duke,duke,Albany (NY),
+2013,Louisville,louisville,Colorado State,
+2013,Memphis,memphis,Michigan State,
+2013,Michigan State,,Duke,duke
+2013,UNC,,Villanova,villanova
+2013,San Diego State,,Oklahoma,oklahoma
+2013,Kansas,kansas,UNC,
+2013,San Diego State,,Florida Gulf Coast,florida gulf coast
+2013,Pitt,,Wichita State,
+2013,Wisconsin,wisconsin,Ole Miss,
+2013,Kansas State,,La Salle,la salle
+2013,Notre Dame,notre dame,Iowa State,
+2013,Ohio State,,Iona,iona
+2013,Gonzaga,gonzaga,Wichita State,
+2013,Ole Miss,,La Salle,la salle
+2013,Iowa State,,Ohio State,
+2013,Wichita State,,La Salle,la salle
+2013,Arizona,arizona,Ohio State,
+2013,Wichita State,,Ohio State,
+2013,Louisville,louisville,Wichita State,
+2014,Michigan State,,Delaware,delaware
+2014,UNC,,Providence,providence
+2014,Iowa State,,North Carolina Central,north carolina central
+2014,UConn,,St. Joseph's,
+2014,Harvard,harvard,Michigan State,
+2014,UNC,,Iowa State,
+2014,UConn,,Villanova,villanova
+2014,Virginia,virginia,Michigan State,
+2014,Iowa State,,UConn,
+2014,Michigan State,,UConn,
+2014,Wichita State,,Cal Poly,cal poly
+2014,Kentucky,kentucky,Kansas State,
+2014,UMass,,Tennessee,tennessee
+2014,Texas,texas,Arizona State,
+2014,Wichita State,,Kentucky,kentucky
+2014,Florida,florida,Albany (NY),
+2014,Colorado,colorado,Pitt,
+2014,Ohio State,,Dayton,dayton
+2014,Florida,florida,Pitt,
+2014,Arizona,arizona,Weber State,
+2014,Gonzaga,gonzaga,Oklahoma State,
+2014,San Diego State,,New Mexico State,new mexico st
+2014,Creighton,creighton,Louisiana,
+2014,North Dakota State,north dakota st,San Diego State,
+2014,Arizona,arizona,San Diego State,
+2014,UConn,,Florida,florida
+2014,UConn,,Kentucky,kentucky
+2015,Louisville,louisville,UC-Irvine,
+2015,Oklahoma,oklahoma,Albany (NY),
+2015,Michigan State,,Georgia,georgia
+2015,Michigan State,,Virginia,virginia
+2015,Oklahoma,oklahoma,Michigan State,
+2015,Louisville,louisville,Michigan State,
+2015,Wichita State,,Indiana,indiana
+2015,Wichita State,,Kansas,kansas
+2015,Notre Dame,notre dame,Wichita State,
+2015,San Diego State,,St. John's (NY),
+2015,Iowa State,,UAB,uab
+2015,Duke,duke,San Diego State,
+2015,Oregon,oregon,Oklahoma State,
+2015,UNC,,Harvard,harvard
+2015,Xavier,xavier,Ole Miss,
+2015,Baylor,baylor,Georgia State,
+2015,VCU,vcu,Ohio State,
+2015,Arkansas,arkansas,UNC,
+2015,Xavier,xavier,Georgia State,
+2015,Ohio State,,Arizona,arizona
+2015,Wisconsin,wisconsin,UNC,
+2015,Duke,duke,Michigan State,
+2016,UNC,,Florida Gulf Coast,florida gulf coast
+2016,Wisconsin,wisconsin,Pitt,
+2016,Xavier,xavier,Weber State,
+2016,UNC,,Providence,providence
+2016,UNC,,Indiana,indiana
+2016,UNC,,Notre Dame,notre dame
+2016,Purdue,purdue,Little Rock,
+2016,Iowa State,,Iona,iona
+2016,Utah,utah,Fresno State,
+2016,Michigan State,,Middle Tennessee,middle tennessee
+2016,Little Rock,,Iowa State,
+2016,Virginia,virginia,Iowa State,
+2016,Colorado,colorado,UConn,
+2016,Arizona,arizona,Wichita State,
+2016,Kansas,kansas,UConn,
+2016,Wichita State,,Miami (FL),miami fl
+2016,St. Joseph's,,Cincinnati,cincinnati
+2016,Oregon State,,VCU,vcu
+2016,Oregon,oregon,St. Joseph's,
+2016,Syracuse,syracuse,UNC,
+2016,Villanova,villanova,UNC,
+2017,Florida,florida,ETSU,
+2017,Kansas,kansas,UC-Davis,
+2017,Miami (FL),miami fl,Michigan State,
+2017,Iowa State,,Nevada,nevada
+2017,Michigan,michigan,Oklahoma State,
+2017,Kansas,kansas,Michigan State,
+2017,Iowa State,,Purdue,purdue
+2017,UNC,,Texas Southern,texas southern
+2017,Cincinnati,cincinnati,Kansas State,
+2017,UCLA,ucla,Kent State,
+2017,Dayton,dayton,Wichita State,
+2017,UNC,,Arkansas,arkansas
+2017,Wichita State,,Kentucky,kentucky
+2017,UNC,,Butler,butler
+2017,UNC,,Kentucky,kentucky
+2017,Florida State,,Florida Gulf Coast,florida gulf coast
+2017,Xavier,xavier,Florida State,
+2017,Oregon,oregon,UNC,
+2017,UNC,,Gonzaga,gonzaga
+2018,West Virginia,west virginia,Murray State,
+2018,Wichita State,,Marshall,marshall
+2018,Michigan State,,Bucknell,bucknell
+2018,Syracuse,syracuse,Michigan State,
+2018,Creighton,creighton,Kansas State,
+2018,Miami (FL),miami fl,Loyola (IL),
+2018,Tennessee,tennessee,Wright State,
+2018,Cincinnati,cincinnati,Georgia State,
+2018,UMBC,umbc,Kansas State,
+2018,Loyola (IL),,Tennessee,tennessee
+2018,Kansas State,,Kentucky,kentucky
+2018,Loyola (IL),,Nevada,nevada
+2018,Kansas State,,Loyola (IL),
+2018,Missouri,missouri,Florida State,
+2018,Ohio State,,South Dakota State,south dakota st
+2018,Houston,houston,San Diego State,
+2018,UNC,,Lipscomb,lipscomb
+2018,Xavier,xavier,Florida State,
+2018,Ohio State,,Gonzaga,gonzaga
+2018,Texas A&M,texas am,UNC,
+2018,Florida State,,Gonzaga,gonzaga
+2018,Florida State,,Michigan,michigan
+2018,Loyola (IL),,Michigan,michigan
+2019,Michigan State,,Bradley,bradley
+2019,Minnesota,minnesota,Michigan State,
+2019,LSU,lsu,Michigan State,
+2019,Duke,duke,Michigan State,
+2019,UNC,,Iona,iona
+2019,Utah State,,Washington,washington
+2019,Iowa State,,Ohio State,
+2019,Houston,houston,Georgia State,
+2019,UNC,,Washington,washington
+2019,Ohio State,,Houston,houston
+2019,UNC,,Auburn,auburn
+2019,Ole Miss,,Oklahoma,oklahoma
+2019,Kansas State,,UC-Irvine,
+2019,Oregon,oregon,UC-Irvine,
+2019,Gonzaga,gonzaga,FDU,
+2019,Marquette,marquette,Murray State,
+2019,Florida State,,Vermont,vermont
+2019,Buffalo,buffalo,Arizona State,
+2019,Murray State,,Florida State,
+2019,Gonzaga,gonzaga,Florida State,
+2019,Texas Tech,texas tech,Michigan State,
+2021,Florida State,,UNC Greensboro,unc greensboro
+2021,UConn,,Maryland,maryland
+2021,Colorado,colorado,Florida State,
+2021,Michigan,michigan,Florida State,
+2021,Loyola (IL),,Georgia Tech,georgia tech
+2021,Tennessee,tennessee,Oregon State,
+2021,Oklahoma State,,Liberty,liberty
+2021,San Diego State,,Syracuse,syracuse
+2021,West Virginia,west virginia,Morehead State,
+2021,Houston,houston,Cleveland State,
+2021,Illinois,illinois,Loyola (IL),
+2021,Oregon State,,Oklahoma State,
+2021,Loyola (IL),,Oregon State,
+2021,Oregon State,,Houston,houston
+2021,UNC,,Wisconsin,wisconsin
+2021,Texas Tech,texas tech,Utah State,
+2021,Ohio State,,Oral Roberts,oral roberts
+2021,Gonzaga,gonzaga,Norfolk State,
+2021,Creighton,creighton,UCSB,
+2022,Baylor,baylor,Norfolk State,
+2022,UNC,,Marquette,marquette
+2022,Murray State,,San Francisco,san francisco
+2022,Kentucky,kentucky,St. Peter's,
+2022,Baylor,baylor,UNC,
+2022,Murray State,,St. Peter's,
+2022,UNC,,UCLA,ucla
+2022,Purdue,purdue,St. Peter's,
+2022,UNC,,St. Peter's,
+2022,San Diego State,,Creighton,creighton
+2022,LSU,lsu,Iowa State,
+2022,Iowa State,,Wisconsin,wisconsin
+2022,Iowa State,,Miami (FL),miami fl
+2022,Arizona,arizona,Wright State,
+2022,Colorado State,,Michigan,michigan
+2022,Ohio State,,Loyola (IL),
+2022,Ohio State,,Villanova,villanova
+2022,Gonzaga,gonzaga,Georgia State,
+2022,Boise State,,Memphis,memphis
+2022,UConn,,New Mexico State,new mexico st
+2022,Texas Tech,texas tech,Montana State,
+2022,Michigan State,,Davidson,davidson
+2022,Michigan State,,Duke,duke
+2022,Duke,duke,UNC,
+2022,Kansas,kansas,UNC,
+2023,Purdue,purdue,FDU,
+2023,Kansas State,,Montana State,
+2023,Michigan State,,USC,usc
+2023,FDU,,Florida Atlantic,florida atlantic
+2023,Kentucky,kentucky,Kansas State,
+2023,Michigan State,,Marquette,marquette
+2023,Kansas State,,Michigan State,
+2023,Florida Atlantic,florida atlantic,Kansas State,
+2023,Indiana,indiana,Kent State,
+2023,Iowa State,,Pitt,
+2023,Xavier,xavier,Kennesaw State,
+2023,Texas A&M,texas am,Penn State,
+2023,Pitt,,Xavier,xavier
+2023,Penn State,,Texas,texas
+2023,Alabama,alabama,Texas A&M-Corpus Christi,
+2023,San Diego State,,College of Charleston,
+2023,Baylor,baylor,UCSB,
+2023,Missouri,missouri,Utah State,
+2023,San Diego State,,Furman,furman
+2023,Alabama,alabama,San Diego State,
+2023,San Diego State,,Creighton,creighton
+2023,UConn,,Iona,iona
+2023,TCU,tcu,Arizona State,
+2023,Northwestern,northwestern,Boise State,
+2023,Saint Mary's,saint marys,UConn,
+2023,Arkansas,arkansas,UConn,
+2023,UConn,,Gonzaga,gonzaga
+2023,Florida Atlantic,florida atlantic,San Diego State,
+2023,Miami (FL),miami fl,UConn,
+2023,San Diego State,,UConn,
+2024,UConn,,Stetson,stetson
+2024,San Diego State,,UAB,uab
+2024,Illinois,illinois,Morehead State,
+2024,Iowa State,,South Dakota State,south dakota st
+2024,UConn,,Northwestern,northwestern
+2024,San Diego State,,Yale,yale
+2024,Washington State,washington st,Iowa State,
+2024,UConn,,San Diego State,
+2024,Illinois,illinois,Iowa State,
+2024,UConn,,Illinois,illinois
+2024,Purdue,purdue,Grambling,
+2024,Utah State,,TCU,tcu
+2024,Gonzaga,gonzaga,McNeese State,
+2024,Texas,texas,Colorado State,
+2024,Tennessee,tennessee,St. Peter's,
+2024,Purdue,purdue,Utah State,
+2024,UNC,,Wagner,wagner
+2024,Mississippi State,mississippi st,Michigan State,
+2024,Alabama,alabama,College of Charleston,
+2024,UNC,,Michigan State,
+2024,UNC,,Alabama,alabama
+2024,UConn,,Alabama,alabama
+2024,UConn,,Purdue,purdue
