@@ -1,0 +1,33 @@
+Region,Team_A,SeedA,Team_A_Index,Team_B,SeedB,Team_B_Index
+East,Duke,1,0,American,16,237
+East,Mississippi State,8,31,Baylor,9,28
+East,Oregon,5,32,Liberty,12,59
+East,Arizona,4,13,Akron,13,96
+East,BYU,6,23,VCU,11,30
+East,Wisconsin,3,12,Montana,14,160
+East,Saint Mary's,7,21,Vanderbilt,10,47
+East,Alabama,2,5,Robert Morris,15,137
+Midwest,Houston,1,2,SIU-Edwardsville,16,214
+Midwest,Gonzaga,8,8,Georgia,9,33
+Midwest,Clemson,5,17,McNeese State,12,58
+Midwest,Purdue,4,18,High Point,13,83
+Midwest,Illinois,6,19,Texas,11,40
+Midwest,Kentucky,3,15,Troy,14,92
+Midwest,UCLA,7,26,Utah State,10,53
+Midwest,Tennessee,2,4,Wofford,15,117
+South,Auburn,1,3,Alabama State,16,274
+South,Louisville,8,22,Creighton,9,35
+South,Michigan,5,24,UC-San Diego,12,36
+South,Texas A&M,4,16,Yale,13,72
+South,Ole Miss,6,25,UNC,11,29
+South,Iowa State,3,9,Lipscomb,14,81
+South,Marquette,7,27,New Mexico,10,42
+South,Michigan State,2,7,Bryant,15,147
+West,Florida,1,1,Norfolk State,16,179
+West,UConn,8,34,Oklahoma,9,37
+West,Memphis,5,49,Colorado State,12,43
+West,Maryland,4,10,Grand Canyon,13,91
+West,Missouri,6,14,Drake,11,57
+West,Texas Tech,3,6,UNC Wilmington,14,105
+West,Kansas,7,20,Arkansas,10,39
+West,St. John's,2,11,Omaha,15,156

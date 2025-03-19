@@ -1,0 +1,5 @@
+Region,Round1_Winners,Round2_Winners,Round3_Winners,Region_Champion
+East,"['Duke', 'Baylor', 'Liberty', 'Arizona', 'VCU', 'Wisconsin', ""Saint Mary's"", 'Alabama']","['Duke', 'Arizona', 'Wisconsin', ""Saint Mary's""]","['Duke', ""Saint Mary's""]",Duke
+Midwest,"['Houston', 'Gonzaga', 'McNeese State', 'Purdue', 'Illinois', 'Kentucky', 'Utah State', 'Tennessee']","['Houston', 'Purdue', 'Kentucky', 'Tennessee']","['Houston', 'Tennessee']",Houston
+South,"['Auburn', 'Creighton', 'UC-San Diego', 'Texas A&M', 'Ole Miss', 'Iowa State', 'New Mexico', 'Michigan State']","['Auburn', 'UC-San Diego', 'Iowa State', 'Michigan State']","['Auburn', 'Michigan State']",Michigan State
+West,"['Florida', 'UConn', 'Memphis', 'Maryland', 'Drake', 'Texas Tech', 'Kansas', ""St. John's""]","['Florida', 'Memphis', 'Texas Tech', ""St. John's""]","['Memphis', ""St. John's""]",St. John's
